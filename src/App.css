@@ -1,0 +1,39 @@
+
+.App {
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: sans-serif;
+}
+
+.profile-photo {
+  
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+
+  
+  
+}
+
+.full-name {
+  font-size: 2em;
+  text-align: center;
+}
+
+.address {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+
+
+
+
+
+
